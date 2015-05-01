@@ -1,5 +1,4 @@
-["hubot-artsy”,
-  "hubot-diagnostics",
+["hubot-diagnostics",
   "hubot-help",
   "hubot-heroku-keepalive",
   "hubot-google-images",
@@ -8,7 +7,5 @@
   "hubot-maps",
   "hubot-redis-brain",
   "hubot-rules",
-  “hubot-seen”,
   "hubot-shipit",
-  "hubot-youtube”
-]
+  "hubot-youtube”]
