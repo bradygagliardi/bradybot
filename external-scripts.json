@@ -11,4 +11,6 @@
   "hubot-shipit”,
   "hubot-shipit",
   "hubot-youtube"
+  “hubot-tweets”
+  “/Users/Bradyg/bradybot/node_modules/hubot-tweets/src/tweets.coffee”
 ]
