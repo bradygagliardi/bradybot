@@ -6,7 +6,6 @@
   "description": "robot for brady",
   "dependencies": {
     "hubot": "^2.12.0",
-    "hubot-artsy": "^1.0.1",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.1.4",
     "hubot-google-translate": "^0.1.0",
@@ -17,7 +16,6 @@
     "hubot-redis-brain": "0.0.2",
     "hubot-rules": "^0.1.0",
     "hubot-scripts": "^2.5.16",
-    "hubot-seen": "^0.2.2",
     "hubot-shipit": "^0.2.0",
     "hubot-slack": "^3.3.0",
     "hubot-youtube": "^0.1.2"
